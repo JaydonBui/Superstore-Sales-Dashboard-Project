@@ -17,7 +17,7 @@ Project Deliverables:
 📁 Dataset:
 
 Superstore Dataset: [File](https://github.com/JaydonBui/Superstore-Sales-Dashboard-Project/blob/main/superstore_dataset.csv)
-Static analysis (https://github.com/JaydonBui/Superstore-Sales-Dashboard-Project/blob/main/Interactive%20Dashboard.pdf)
+[Static analysis](https://github.com/JaydonBui/Superstore-Sales-Dashboard-Project/blob/main/Interactive%20Dashboard.pdf)
 
 <img width="511" alt="Interactive Dashboard" src="https://github.com/user-attachments/assets/0b26fb91-4be5-4da7-b929-7df77ca3d9e7">
 
