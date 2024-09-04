@@ -1,4 +1,3 @@
-<img width="511" alt="Interactive Dashboard" src="https://github.com/user-attachments/assets/0b26fb91-4be5-4da7-b929-7df77ca3d9e7"># Superstore-Sales-Dashboard-Project
 
 📝 Project Description
 This school project demonstrates my ability to create comprehensive and interactive dashboards using Power BI. The dashboards are built using the "Superstore" dataset and provide insights into key business metrics, helping stakeholders make data-driven decisions.
@@ -19,4 +18,5 @@ Project Deliverables:
 Superstore Dataset: [File]
 
 
-![Uploading Interactive Dashboard.png…]()
+<img width="511" alt="Interactive Dashboard" src="https://github.com/user-attachments/assets/0b26fb91-4be5-4da7-b929-7df77ca3d9e7"># Superstore-Sales-Dashboard-Project
+
