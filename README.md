@@ -17,3 +17,5 @@ Project Deliverables:
 📁 Dataset:
 
 Superstore Dataset: [File]
+
+![alt text]([http://url/to/img.png](https://github.com/JaydonBui/Superstore-Sales-Dashboard-Project/blob/main/Interactive%20Dashboard.png))
